@@ -1,0 +1,121 @@
+name,description,link
+Answering Reading Comprehension Questions,From Short Context to Long Passages: Generalizing QA Models to Answer Standardized Test Reading Comprehension Questions,https://devpost.com/software/dl-final-project
+Find a specific photo in the album,"In our daily life, we must have encountered this situation that it is hard to find a specific photo in our album. With this model, we just need to give a description to locate the photo we want!",https://devpost.com/software/find-a-photo-in-the-album
+Using Deep Learning to Predict Protein Secondary Structure,This project seeks to take two different approaches to predict the secondary structure of proteins based on the primary structure of the amino acid chain.,https://devpost.com/software/using-deep-learning-to-predict-protein-secondary-structure
+Alzheimer's Disease Classification Using Language Models,We propose to feed patient hospital notes into a transformer language model to predict whether a patient gets Alzheimer's disease.,https://devpost.com/software/alzheimer-s-disease-classification-using-transformers
+Handwritten Equation Identifier,"Too lazy LaTex to type math symbols, try out this model that will transform handwritten equations to a typed text.",https://devpost.com/software/handwritten-equation-identifier
+Fake Finders,Detect fakes from the dataset containing real images and CNN-augmented images.,https://devpost.com/software/fake-finders
+Bias Identification of Political Media,We attempt to scan political text articles and identify sentences that have liberal or conservative biases in them using NLP and deep learning.,https://devpost.com/software/bias-identification-of-political-media
+Who Let the Cat Out? Siamese Network Authorship Verification,Are two texts from the same author? This network (hopefully) knows.,https://devpost.com/software/who-let-the-cat-out-siamese-network-authorship-verification
+MIMIC,Disease prediction using deep learning.,https://devpost.com/software/mimic-k3huvm
+Forward and Inverse Problem of the Michelson interferometer,Use CNN and dcGAN to study the interference pattern.,https://devpost.com/software/digital-image-correlation-for-strain-field
+Deep Price Learning,We analyze stonk price patterns in order to predict future price gyrations in a volatile and unpredictable global market (2021-?),https://devpost.com/software/deep-price-learning
+test,test,https://devpost.com/software/test-s8wu9o
+Plant Cell Segmentation with a Convolutional Neural Network,Reimplementing 2d segmentation for plant cells.,https://devpost.com/software/plant-cell-segmentation-with-a-convolutional-neural-network
+Joint Image Training for Transformers in Supervised Learning,A regularization method for ViT. Works surprisingly well on small scale datasets!,https://devpost.com/software/depp-learning
+collabs ft. colab: generating song collabs across genres,"To quote Barry B. Benson, ya like jazz? Well, we do too -- so we made everything jazz. The goal of our project is to take music from 2 genres and generate a new song with features from both genres.",https://devpost.com/software/collabs-ft-colab-generating-song-collabs-between-artists
+ASLAN,American Sign LAnguage Network,https://devpost.com/software/aslnn
+Traffic Sign Recognition,Traffic Sign Recognition is a key point in the auto-driving area.,https://devpost.com/software/traffic-sign-recognition-with-cnn
+NEAT,Reimplementation of the NEAT Paper,https://devpost.com/software/neat
+Deep Reinforcement Learning Transformers in StarCraft II,We will combine our knowledge of deep learning from this course and our background in reinforcement learning to create deep reinforcement learning models to solve the tasks in SC2 video game.,https://devpost.com/software/deep-reinforcement-learning-transformers-in-starcraft-ii
+Transformer Prior,Transformer with Deep image prior method to image reconstruction task without learning,https://devpost.com/software/transformer-prior
+R2U-Net for Medical Image Segmentation,Using R2U-Net for Medical Image Segmentation,https://devpost.com/software/r2u-net-for-medical-image-segmentation
+Xtructure,Read X-ray scattering patterns and Get the molecular structures.,https://devpost.com/software/xtructure
+Ramen Runners (CS1470),"In our final project, we aim to predict the model of the car (sub-categorization) under the umbrella of a single brand, which we have chosen as Toyota.",https://devpost.com/software/ramen-runners-cs1470
+Artsy Image Generation,Image Generation with text input - implementation of control GAN,https://devpost.com/software/esh-ai
+Greenland Gang,Take satellite images of Northwest Greenland and output a vector description of the river network for Greenland Ice Sheet melt modeling,https://devpost.com/software/greenland-gang
+Your Model is so Cool,Train a model that evaluates the sentiment of a tweet using sentiment analysis and sarcasm detection,https://devpost.com/software/chen-sun-fans
+Comparative Study of Bubble Growth Dynamics with DeepONet,"We aim to compare LSTMs, GRUs, Seq2Seq and Deep Operator Networks (DeepONet) by learning multi-scale bubble growth dynamics amidst pressure fluctuations.",https://devpost.com/software/comparative-study-of-bubble-growth-dynamics-with-deeponet
+Fingerprint Image Neural Embeddings,Fingerprint recognition using deep learning!,https://devpost.com/software/cnn-based-fingerprint-recognition
+Equal.txt,Identifying bias in film reviews through three distinct models!,https://devpost.com/software/fairthoughts
+Neural Image Caption Generator,Neural Image Caption Generator,https://devpost.com/software/neural-image-caption-generator
+CYu Later Amazon Rater,Amazon,https://devpost.com/software/cyu-later-amazon-rater
+Text Simplifier,Simplifies the given English text input,https://devpost.com/software/text-simplifier-3z7m8e
+NBA Over/Unders,Using a LSTM model to predict NBA Over/Unders.,https://devpost.com/software/nba-over-unders
+sig-no fraud,Signature forgery detection using Siamese Convolutional Neural Networks,https://devpost.com/software/sig-no-fraud
+Sweet Talkers | NLP Final Project,Building a model that predicts course and professor ratings based on Critical Review language data,https://devpost.com/software/sweet-talkers
+Grammatical Error Detector for the Chinese Language,"A language model using RNN-LSTM architecture to detect grammatical errors in Chinese sentences. The model will be trained and tested on datasets from TOCFL and NHK, the Chinese language fluency tests.",https://devpost.com/software/grammatical-error-detector-for-the-chinese-language
+Commodities and S&P 500,Predicting stock prices based on commodities prices,https://devpost.com/software/commodities-and-s-p-500
+viVID-GAN,Super Resolution for Images and Videos using SRGAN,https://devpost.com/software/vividgan
+The Making of Cher’s Closet,"“Inspired by Cher's DressMe from the iconic movie, ""Clueless"", we seek to implement a fashion-informed deep learning model geared toward outfit generation.",https://devpost.com/software/fashion-outfit-composition
+Deep Dreaming Music Generation,"We use autoencoders to encode and a neural network to classify genres of music, and then borrow ideas from Deep Dream to run the network backwards and alter the encodings to fit a specific genre.",https://devpost.com/software/deep-dreaming-music-generation
+Filling gaps in chlorophyll data in the Bering Sea,Chlorophyll is an important food source for juvenile fish and indication of overall ocean health. Our project will attempt to implement structured prediction to fill the gaps in Chlorophyll data.,https://devpost.com/software/filling-gaps-in-chlorophyll-data-in-the-bering-sea
+NeuroDet,Classifying brain tumor MRI images as their subtypes using different neural network architectures can reduce the need for invasive diagnostic procedures like brain biopsies.,https://devpost.com/software/neurodet
+crypto-price-predictor,Deep Learning model that seeks to provide investors with a list of cryptocurrencies along with their predicted future trajectories.,https://devpost.com/software/crypto-price-predictor
+Facial Expression Recognition to Associate Colors to Emotion,Facial Expression / Emotion Recognition classification model,https://devpost.com/software/facial-expression-recognition-to-associate-colors-to-emotion
+Quantitative Stock Forecast with Weather Data,"Predict stock prices using different CNN-LSTM type networks, refined using weather data of specific regions and companies.",https://devpost.com/software/quantitative-cnn-lstm-stock-forecast-with-weather-data
+Geodesic Flow,An Incremental Approach to Dense Semantic Correspondence,https://devpost.com/software/geodesic-flow
+System Anomaly Detection via Deep Log Analysis,Using deep learning to detect anomalies in system logs.,https://devpost.com/software/system-anomaly-detection-via-deep-log-analysis
+Image-to-Text Generative Adversarial Network,generative adversarial network that generates plausible images of objects from detailed text descriptions.,https://devpost.com/software/image-to-text-generative-adversarial-network
+Graph Convolutional Reinforcement Learning,Reinforcement learning is an important tool for models to adapt to their environments. This project implements graph convolution reinforcement learning as a solution to produce cooperative agents.,https://devpost.com/software/graph-convolutional-reinforcement-learning
+Team Wendy's,Captioning images using a CNN and Transformers,https://devpost.com/software/team-wendy-s
+Using GCNs for Single-Cell Classification,Using Graph Convolutional Networks for Single-Cell Classification,https://devpost.com/software/using-gcns-for-single-cell-classification
+Bach in Black: Music Style Transfer,Our project idea is music style transfer. The goal is to create a model that can take in as input a song from one genre of music and output the same song in a different genre.,https://devpost.com/software/bach-in-black-music-style-transfer
+Using Rotational Bounding Box for Zebra Crossing Detection,"In this project, we want to utilize the ability of deep learning with object detection that involves identifying traffic lanes in digital photographs.",https://devpost.com/software/using-bounding-box-for-traffic-lane-detection
+Seinfeld-bot,Deep learning based joke teller,https://devpost.com/software/seinfeld-bot
+Emotionally-Aware Chatbot,A conversational chatbot that can detect the user’s emotions and respond accordingly,https://devpost.com/software/emotion-aware-chatbot
+Chatbot,An Unsupervised Approach to a Chatbot,https://devpost.com/software/chatbot-nfvk0j
+Chat Buddy,"Our plan is to produce an eloquent, sparking conversationalist of a chatbot to replace the antiquated concept of 'human friends'.",https://devpost.com/software/sigma-jmo873
+ohmnist,Creating a model that classifies resistors to their resistance value based on their color bands,https://devpost.com/software/ohmnist
+Hand Drawn Sketch Identifier,Identify sketches,https://devpost.com/software/hand-drawn-sketch-identifier
+MusicVAE: MIDI Music Generation,We are exploring VAEs for generating realistic music clips.,https://devpost.com/software/musicvae-midi-music-generation
+Advanced Tetris Bot,"Finding an optimization strategy to play the game called Jstris, a game is an adaptation of tetris with some additional rules such as an ability to attack other players or techniques such as T-spin.",https://devpost.com/software/advanced-tetris-bot
+No 2 Iceberg,Determining using satellite radar data whether an object in the water is a ship or an iceberg,https://devpost.com/software/no-2-no2
+Model Architecture,Captioning and classifying architectural images,https://devpost.com/software/model-architecture
+Binarized Neural Networks,Neural Networks with Binary Weights and Activations at Runtime,https://devpost.com/software/binarized-neural-networks
+CNN RNN N Body Solver,Architecture and novel solution to attempt to solve the n-body problem via CNN and RNN prediction,https://devpost.com/software/cnn-rnn-n-body-solver
+End-to-End Object Detection of Transformers,"The goal of this project is to put the paper ""End-to-End Object Detection of Transformers"" into practice.",https://devpost.com/software/end-to-end-object-detection-of-transformers
+Trix with Pix,An implementation of Pix2Pix that creates facades from blueprints,https://devpost.com/software/pix2pix-colorizing-landscapes
+Segmenting exons and introns from DNA sequences,We explore different deep learning architectures to segment DNA sequence with nucleotide-level resolution.,https://devpost.com/software/intron-exon-labeling
+BoneyBoney,Implement self-attention network to identify body parts from bone x-ray images.,https://devpost.com/software/bonessss
+Using Neural Networks to Predict Fantasy Football Scores,Eli Shea and Zach Huang,https://devpost.com/software/using-convolutional-neural-networks-to-classify-nfl-bets
+Traffic Sign CNN Classifier,Traffic Sign classification using a Convolutional Neural Network,https://devpost.com/software/traffic-sign-cnn-classifier
+CipherBusters,Automatically busting classical ciphers 👻,https://devpost.com/software/cipherbusters
+CNN You See What I See: Interpreting Deep Learning Models,Using Concept Activation Vectors to understand how deep learning models learn to classify images,https://devpost.com/software/cnn-you-see-what-i-see-interpreting-deep-learning-models
+LSTM Based Poems Writing Style Recognition Analysis,Build a Long short-term memory (LSTM) network model that can find and reveal the right poet given a part of a poem,https://devpost.com/software/servicemesh-improvement
+ImagineDim,A deep learning model to estimate dimension of objects in language,https://devpost.com/software/imaginedim
+ESRDEM: Enhanced Super-resolution of DEM,Super Resolution of Digital Elevation Models of the Canadian Shields generated using CNNs.,https://devpost.com/software/esrdem-enhanced-super-resolution-of-dem
+Optimizing Neural ODEs for Web Traffic Forecasting,Want to predict stocks? weather? traffic? Predict temporal datasets with our new Neural ODE - GRU-D architecture,https://devpost.com/software/neural-diff
+Related Domain Experience Replay (ReDER),"Using Dueling Double DQN to train the model on multiple similar domains, and transferring experience we created a model that can be used to train on multiple games of similar genre.",https://devpost.com/software/mid-diff
+Contrastive Self-Supervised Image Classification with SimCLR,Training an image classifier without using labels by building a model that can generate labels needed for training from the images themselves!,https://devpost.com/software/contrastive-self-supervised-image-classification
+Artificial Unintelligence,Intelligently Unintelligent #learningdeeply,https://devpost.com/software/artificial-unintelligence
+Implementing rNVP to learn distributions,We look to implement real-value non-volume preserving transformations (https://arxiv.org/pdf/1605.08803.pdf) to learn distribution parameters through maximum likelihood.,https://devpost.com/software/implementing-rnvp-to-learn-distributions
+Predicting Pipe Flow With Neural Networks,Simulating pipe flow using convolution and auto encoders much more efficiently than FEM!,https://devpost.com/software/predicting-pipe-flow-with-neural-networks
+x,x,https://devpost.com/software/detecting-fake-gan-images-with-co-occurrence-matrices-cnns
+Detecting Suicidal Intent in Tweets Using a Time-Aware LSTM,We are detecting suicidal intent in tweets using a time-aware transformer based model. This incorporates both the tweet itself and past history of a user's tweets.,https://devpost.com/software/detecting-suicidal-intent-in-tweets-using-a-time-aware-lstm
+gta5-self-driving,Never crash your whip ever again in GTA5,https://devpost.com/software/gta5-self-driving
+Generating Image Descriptions,Using deep learning to generate captions for images.,https://devpost.com/software/generating-image-descriptions
+Machine Composed Music using Deep Neural Networks,"Using the power of a generative adversarial network (GAN) trained on a public classical music dataset, we aim to create classical music that is not only listenable, but interesting and complex.",https://devpost.com/software/machine-composed-music-using-deep-neural-networks
+Generating English Poetry from Text Image,"Our group aims to make the process of poetry creation as easy as uploading a text image, and our model generates a beautiful poem based on it.",https://devpost.com/software/generating-english-poetry-from-image
+Advecting 3D Meshes using Point Cloud Interpolations,"This project investigates the deformation of 3D shapes by using a point cloud interpolation sequence, which is generated via a point cloud GAN.",https://devpost.com/software/3d-shape-synthesis-and-deformation
+Winners and Whiners: Applying Deep Learning to the NBA,We utilized two models: a live-time play-by-play LSTM and a dense model that utilized player/team stats We closely model important features of data that we believe are domain specific to basketball.,https://devpost.com/software/applying-deep-learning-techniques-to-nba-predictions
+Racial Bias & the Loaded Language of Gun-Violence Reporting,"For our project, we are investigating racial bias in American media’s reporting of gun-violence-related incidents by analyzing Professor Pavlick’s gun violence database: http://gun-violence.org/.",https://devpost.com/software/racial-bias-the-loaded-language-of-gun-violence-reporting
+Deep Correct: DL Color Correction for Color Blindness,GAN inspired model to produce color corrected images to aid in object recognition for color-blind people.,https://devpost.com/software/deep-correct-dl-color-correction-for-color-blindness
+Reinforcement Game AI,Reimplement a reinforcement learning AI for card game,https://devpost.com/software/reinforcement-game-ai-rfki0o
+boilbeans,we are trying to use deep learning to predict the closing price of the stock market for the upcoming days,https://devpost.com/software/boilbeans
+Smart Parks and Rec,The study of the usages of urban greeneries are helpful in understanding their mental and physical health benefits on the community. We predict the function of an urban greenery given images of it.,https://devpost.com/software/smart-parks-and-rec
+DeepAnimation,A vector-based generation model that predicts the next possible keyframes for animation given an SVG input in real-time.,https://devpost.com/software/deepanimation
+Deep Learning Final Project,Hit Song Prediction using Deep Learning,https://devpost.com/software/deep-learning-final-project-y2cmhe
+Deep Learning for Weather Related PDEs,Deep Learning for Weather Related PDEs,https://devpost.com/software/deep-learning-for-weather-related-pdes
+Style Transform Based on GAN,style transform using GAN,https://devpost.com/software/style-transform-based-on-gan
+DeepWalk By ShallowRun,Keep walking...,https://devpost.com/software/deepwalk-by-shallowrun
+NOTHING,NOTHING,https://devpost.com/software/meibomian-glands
+Sign Language Translation,"Real-time sign language to text conversion. Team Members: Justin Rhee (jrhee8) , Matthew Shinkar (mshinkar), Samantha Hong (shong41)",https://devpost.com/software/sign-language-project
+Sha'ireen,A natural language processing model that generates intelligible captions for images in the Arabic language,https://devpost.com/software/shai-ireen
+Strikeout,Predicting baseball pitches from a video of the pitcher's windup,https://devpost.com/software/strikeout
+Implementation of CycleGAN on Images and Videos,A model that changes the style of world you see!,https://devpost.com/software/csci1470_final_newbeedui
+DEEP LEARNING FOR QUANTUM CHEMISTRY,"In this work, we compare the use of discrete filtered CNNS versus continuous filters, particularly for quantum chemistry problems.",https://devpost.com/software/deep-learning-for-quantum-chemistry
+Using GANs to Generate Realistic Art,"We are using GANs to generate art. We will be attempting to create abstract art, as well as portrait and landscape art.",https://devpost.com/software/using-gans-to-generate-realistic-art
+Music Generation,We are working on a model to generate music.,https://devpost.com/software/music-generation-s4jvz7
+Ensemble Model for VR Game Design,"We present the Gamifier ensemble program, combining 3 deep learning models to generate 3D meshes and color palettes of relevant objects given one word as the user input.",https://devpost.com/software/gamifiers-deep-3d-mesh-generation-for-game-design
+Turbulence Modeling using Deep Learning,"PINNs can be used to solve ill-posed problems, where the parameters of turbulence models are learned via Neural Network whilst producing the solution of the partial differential equations.",https://devpost.com/software/turbulence-modeling-using-deep-learning
+big dawgs,predicting nba spreads with deep learning,https://devpost.com/software/big-dawgs
+The Effect of Elon Musk’s Tweets on the Crypto Market,"An examination how Elon Musk’s tweets affect the trading price of cryptocurrencies (bitcoin, ethereum, dogecoin)",https://devpost.com/software/the-effect-of-elon-musk-s-tweets-on-cryptocurrencies
+Bot or Not ?,Twitter bot classification using supervised learning and natural language processing.,https://devpost.com/software/bot-or-not-xlwh1e
+Generation of Novel Recipes Using LSTMs,Cooking is hard work. Creating new recipes is even harder. RNN LSTMs to the rescue?,https://devpost.com/software/generation-of-novel-recipes-using-lstms
+Cartoonify an image,"In this project, we are cartoony an image and image to image translation using different algorithms. First, we convert an image (Image of my face) to a cartoon image using different algorithms.",https://devpost.com/software/fresh-fields
+KMuse,Lyrical Analysis and Song Suggestion,https://devpost.com/software/kmuse-1q72el
+Arogya,It will allow people to check their health and help to keep the environment healthy,https://devpost.com/software/arogya-phrdvi
+Alpha Trade,Stock Trading Bot with Deep Q-Network,https://devpost.com/software/alpha-trade
+Predicting College Football Wins,Using statistics from past years to predict number of expected wins in upcoming season,https://devpost.com/software/predicting-college-football-wins
+Image Segmentation for Prostate MRI,We implemented 4 CNN-based image segmentation models to deal with prostate MRI,https://devpost.com/software/image-segmentation-for-prostate-mri-71cowt

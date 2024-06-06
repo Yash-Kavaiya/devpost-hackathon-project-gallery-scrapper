@@ -1,0 +1,72 @@
+name,description,link
+Regularization Explainability Analysis,"Analyzing the effects of various types of regularization on explainability, as well as accuracy, via open-sourced models trained on CIFAR10.",https://devpost.com/software/regularization-explainability-analysis
+Sketch to Image Generation,An implementation of image generation from sketch constraint using contextual GAN,https://devpost.com/software/hi-wvmz4p
+Learning Linear Temporal Logic!,Grounding Non-Markovian Language to Linear Temporal Logic,https://devpost.com/software/learning-linear-temporal-logic
+Analyzing Sentiment in IMDB Movie Reviews,"By using various deep learning methods (word-2-vec and bag of word models), we can use Natural Language Processing (NLP) to analyze the overall sentiment in a movie review on IMDB.",https://devpost.com/software/facial-restoration-with-gans
+Free-Hand Sketch Recognition and Image Retrieval,An implementation of AI Draw-Guess Guru,https://devpost.com/software/draw_guess
+The Reboot,A Deep Learning Sitcom Script Generator,https://devpost.com/software/the-reboot
+Yip Yap Yelp,We will predict the number of stars associated with a given YELP written review,https://devpost.com/software/yip-yap-yelp
+AmbianceNet,"We intend to create a system for matching text with emotionally resonant music. To do this, we will create a shared emotional embedding space to ""translate"" emotions from a text context into music.",https://devpost.com/software/ambiancenet
+line2picture,Deep learning framework for transforming outlines of portraits to faces,https://devpost.com/software/line2picture
+aging single cell,Deep learning for single-cell age prediction,https://devpost.com/software/aging-single-cell
+RachmaninoffNN,Style-specific music generation with biaxial LSTM,https://devpost.com/software/rachmaninoffnn-style-specific-biaxial-lstm-music-generation
+Dental Care Recommendations,The team wants to solve a new problem by applying the deep learning model to develop a recommender system for dental care.,https://devpost.com/software/dental-care-recommendations
+DLNA,DNA Sequence Classification using DL,https://devpost.com/software/dlna
+Deep Learning Final Project,Building a Model to Classify Periodic Time-Series Data(And using it to generate some cute animations),https://devpost.com/software/deep-learning-final-project-nz4hks
+app-pinion,Neural Temporal Modeling for Opinion Prediction on Twitter,https://devpost.com/software/apppinion
+Price Prediction for OldSchool Runescape,We are looking to apply deep learning models with the goal of forecasting in game item prices based on past market metrics.,https://devpost.com/software/will-david-emmanuel
+Compositional Sketch Generator,No one knows sketching better than me!,https://devpost.com/software/sketch-rnn
+fine art classification,Classifying pieces of fine art by genre.,https://devpost.com/software/fine-art-classification
+Ukrainian War Sentiment Analysis + Topic Modeling,Analyzing Twitter users' reactions to the Ukrainian war using a pre-trained sentiment model. Use topic modeling to identify the most discussed topics and themes.,https://devpost.com/software/ukrainian-sentiment-analysis
+Automatic Chemical Design Using Molecular Representations,Checkin #2 for our final project! This is NOT our final submission; I'm not sure why this is here. Our final submission is elsewhere in the hackathon :),https://devpost.com/software/automatic-chemical-design-using-molecular-representations
+Prediction of the NYT Best Seller Book using an NLP model,Our group wants to develop an NLP model that is able to predict whether a book will become a New York Best Seller or not.,https://devpost.com/software/prediction-of-the-best-seller-book-using-an-nlp-model
+Tweet Disasters,A deep learning model that predicts which tweets from Twitter are about real disasters and which ones aren’t.,https://devpost.com/software/tweet-disasters
+Music Classification Using CRNNs,Introduce a convolutional recurrent neural network (CRNN) as a method for music tagging,https://devpost.com/software/music-classification-using-crnns
+Fixing Blocking Artifacts from JPEG Images,Creating an algorithm that can remove blocking artifacts from compressed images,https://devpost.com/software/fixing-blocking-artifacts-from-jpeg-images
+HiC > Fanta,"Tensorflow conversion of the ""Enhancing Hi-C data resolution with deep convolutional neural network HiCPlus"" paper!",https://devpost.com/software/hic-fanta
+Re-Implementing P-NET,"Re-implenting P-NET, a deep learning model that incorporates biologically-informed neural architecture in order to improve prediction of prostate cancer states.",https://devpost.com/software/re-implementing-p-net
+Cleverly Classifying Culinary Cuisines,Implementing a deep learning model to classify food images.,https://devpost.com/software/creatively-captioning-culinary-cuisines
+Object detection with YOLOv3,Our project aims to detect humans in crowds using an architecture inspired by YOLOv3.,https://devpost.com/software/object-detection-with-yolov3
+WebMD Drug Review Classification,"The goal of our project is to classify drug reviews from WebMD, an online publisher of news and information pertaining to human health and well-being.",https://devpost.com/software/webmd-drug-classification
+Image Colorization,We're colorizing black and white images!,https://devpost.com/software/image-recolorization
+Semi-supervised arrhythmia classification using capsules,A semi-supervised 2-D convolutional neural network with capsules that classifies 15 categories of arrhythmia from ECG signals.,https://devpost.com/software/arrhythmia-classification-using-capsules
+SugarCoding by Polite Pythons,"A machine translation problem, specifically politeness transfer, which entails transforming normal phrases into polite phrases",https://devpost.com/software/polite-pythons
+Acouztic,"You want to be a song writer but don't know how to start? We attempt to use machine learning to do the job, generating a song with lyrics from words of choice.",https://devpost.com/software/songsters
+QuickDraw by Sasketchewan Selects,quickdraw implmementation,https://devpost.com/software/quickdraw-by-sasketchewan-selects
+Prediction of miRNA Diseases by GCN,using GCN build a deep learning model to predict miRNA associated diseases,https://devpost.com/software/prediction-of-mirna-diseases-by-gcn
+DL on the dl,Our project is to generate new skin pigmentation data for darker skin tones by exploring the latent space in VAE.,https://devpost.com/software/dl-on-the-dl
+DL Final Project TCGA,DL model to predict recurrence in ovarian cancer,https://devpost.com/software/dl-final-project-tcga
+Facial Expression Detection and Emoji Conversion,1. A classification problem under the umbrella of supervised learning to do emotional analysis2. Converting the resulting classifications into emojis which have corresponding emotions,https://devpost.com/software/facial-expression-detection-and-emoji-conversion
+Color Blind Zebra,Colorizing Black&White images. 🌈,https://devpost.com/software/color-blind-zebra
+Predicting future crypto prices using an LSTM model,We are using an LSTM model to help predict future crypto prices.,https://devpost.com/software/predicting-future-crypto-prices-using-an-lstm-model
+Arkanoid Breakout Game,"In this game, we want to train a board which can automatically precisely move to the position of the ball and hit back the ball to continue hit the bricks until all the bricks have been removed.",https://devpost.com/software/arkanoid-game
+Logo Generator,We aim to generate suitable and creative logos for companies using a deep learning model.,https://devpost.com/software/logo-gen
+Fake Reviews Classification,We're creating a model that determines whether a review is real or fake,https://devpost.com/software/fake-reviews-classification
+ABSA using Gated CNNs,"A faster, more accurate and less resource intensive sentiment analysis algorithm.",https://devpost.com/software/absa-using-gated-cnns
+AlphaText,A Text Summarization and QA Chatbot for Extracting Information From News Articles,https://devpost.com/software/alphatext
+Generating Poetry from Prose Text,We are aiming to recreate a paper entitled Automatic Poetry Generation from Prosaic Text written by Tim Van de Cruys to generate syntactically correct and meaningful poetry from prose text.,https://devpost.com/software/generating-poetry-from-prose-text
+Doodlebot,Composing Sketched Scenes from Text Descriptions for Interactive Applications,https://devpost.com/software/sketchformer
+CS1470 Final: BabyBERTa,Using Child Language Data to Train Good Language Models,https://devpost.com/software/cs1470-final-babyberta
+SinGAN,CS1470 final project plan,https://devpost.com/software/singan
+Deep Yearning,We are building an image classification model that relies on Visual Transformers and comparing it to conventional CNNs.,https://devpost.com/software/deep-yearning
+Sports Bets,Deep Learning Final Project,https://devpost.com/software/deep-learning-final-project-gcprsu
+CamoTransform,Using GANs to generate appropriate camouflage pattern for a given nature environment image!,https://devpost.com/software/camotransform
+Melanoma Classification from Skin Images,We are trying to classify various images of skin that have lesions to determine what type of melanoma is present in the image. This is considered a classification task.,https://devpost.com/software/melanoma-classification-from-skin-images
+Creative Adversarial Networks for Art Generation,Creative Adversarial Networks for Art Generation,https://devpost.com/software/creative-adversarial-networks-for-art-generation
+Using CycleGAN to Unbias Melanoma Skin Lesion Data,"Leveraging the power of image-to-image translation to generate synthetic, unbiased melanoma skin lesion data",https://devpost.com/software/object-to-painting-with-cyclegan-model-architecture
+Snake Reinforcement Learning,implementing the snake game using RL (Deep Q Learning),https://devpost.com/software/snake-reinforcement-learning
+Ode to Code,Experimenting with LSTM and WaveNet models to produce a short musical tune!,https://devpost.com/software/ode-to-code
+SLR,Sign Language Translation,https://devpost.com/software/slr
+Tumor Segmentation,Tumor segmentation for better tumor visualization for better treatment outcomesWriteup: https://docs.google.com/document/d/1K0PU47YJYTQ-W7_S8KNeIQ49CsQwG_LlOv6QxgcouEQ/edit?usp=sharing,https://devpost.com/software/tumor-segmentation
+Vadimaniacs' Heresy,New self-driving system trained on new dataset and how to attack it,https://devpost.com/software/vadimaniacs-heresy
+Deep Q-Learning for Atari River Raid,Our goal is to develop a deep reinforcement model to play the Atari 2000 River Raid.,https://devpost.com/software/deep-q-learning-for-atari-river-raid
+Database Assisted Object-Retrieval 3D Room Reconstruction,This project provides a 3D scene of your room with 3D furniture by just taking one room picture from your phone!,https://devpost.com/software/database-assisted-object-retrieval-3d-room-reconstruction
+Transformers,The aim of this paper is to use both CNNs and Transformers to detect objects present in images,https://devpost.com/software/transformers-zv85yk
+Music Mood Classification,see project details,https://devpost.com/software/music-mood-classification
+Fruad No More - Credit Card Fraud Detection,"In our project, we are going to explore and deploy ways of better predicting potential credit card fraud with deep learning methods in the course.",https://devpost.com/software/credit-card-fraud-detection-by-deep-learning-methods
+Zoo Crew,We hope to take in a large dataset of different pictures of animals and train our model to classify them as accurately as possible.,https://devpost.com/software/zoo-crew
+DLGeo,Aiming to estimate providence's solar power capacity,https://devpost.com/software/dlgeo
+Verifying Gene2Vec,Verifying the m6A site-prediction abilities of Gene2Vec against direct m6A-sequencing-generated data.,https://devpost.com/software/verifying-gene2vec
+Captioning Images Through Identifiers,"Identifying images using a transformer, then captioning them.",https://devpost.com/software/captioning-images-through-identifiers
+House Price Prediction,Use classification and regression models to predict housing prices,https://devpost.com/software/deep-learning-housing
+Automatic Chemical Design Using Molecular Representations,"We trained a model to generate similar, unique molecules based on the features of a target input molecule for drug discovery and other chemical applications.",https://devpost.com/software/automatic-chemical-design-using-molecular-representations-jyrloa
